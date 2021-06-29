@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776429841638",
+    "project_id": "sajibmoneyym",
+    "storage_bucket": "sajibmoneyym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776429841638:android:9e0f2db282cbaf615b1f27",
+        "android_client_info": {
+          "package_name": "com.example.firebase_muneyyem_vi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776429841638-tlf0e38e5d5j2ah65h8f5p46l60rqt4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDC1f93HCZbjBCu7whq1eXrDg1XbVohI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776429841638-tlf0e38e5d5j2ah65h8f5p46l60rqt4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
